@@ -1,0 +1,10 @@
+html, body{
+     background-color: bisque;
+     color: blueviolet
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(165, 76, 89);
+
+}
