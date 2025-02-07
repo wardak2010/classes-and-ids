@@ -1,10 +1,26 @@
-html, body{
+html, body {
      background-color: bisque;
      color: blueviolet
 }
 
-h1{
+h1 {
     font-size: 50px;
     color: rgb(165, 76, 89);
+}
 
+.name {
+    color: hotpink;
+    background-color:aquamarine;
+    border: 2px solid lightcoral;
+}
+
+h2.name {
+    color: chocolate;
+    background-color: chartreuse;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+font-size: 100px;
 }
